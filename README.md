@@ -6,4 +6,4 @@ Thanks to Forismatic for my quotes api https://forismatic.com/en/
 Screenshots
 ---------
 <img src="https://github.com/Dkoran/QuotesAppWeb/blob/master/Screen%20Shot%20.png"
-width="300"/>
+width="800"/>
