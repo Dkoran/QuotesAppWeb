@@ -5,5 +5,5 @@ Thanks to Forismatic for my quotes api https://forismatic.com/en/
 
 Screenshots
 ---------
-<img src="https://github.com/Dkoran/QuotesAppWeb/blob/master/Screen%20Shot%20.png"
+<img src="https://github.com/Dkoran/QuotesAppWeb/blob/master/screenshot%20.jpg"
 width="800"/>
